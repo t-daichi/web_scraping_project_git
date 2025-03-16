@@ -1,0 +1,3 @@
+scrapenv/
+__pycache__
+*.csv
